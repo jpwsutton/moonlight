@@ -1,8 +1,9 @@
-//-------- Libraries --------
+https://github.com/jpwsutton/moonlight/blob/0963bb414962bacf8ecfe16a9f63fbea8eaedd3f/ntp_moon.ino//-------- Libraries --------
 #include <ESP8266WiFi.h> //https://github.com/esp8266/Arduino
 #include <DNSServer.h>
 #include <ESP8266WebServer.h>
-#include <WiFiManager.h> //https://github.com/tzapu/WiFiManager
+#include <WiFiManager.h> //https://github.com/tzapu/Wi-fi manager
+
 #include <time.h>
 #include <sys/time.h>
 #include <coredecls.h>
